@@ -4,7 +4,7 @@ def square_array(array)
     new_array << element ** 2
     puts element
   puts new_array
-  new_array
+  return new_array
   end
 end
 
